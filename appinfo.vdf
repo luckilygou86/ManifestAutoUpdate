@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "4613747488217947155"
-				"size" "1799908147"
-				"download" "1729722480"
+				"gid" "723141140625701130"
+				"size" "1800082739"
+				"download" "1729795968"
 			}
 		}
 		"encryptedmanifests"
@@ -340,9 +340,15 @@
 			}
 			"release_candidate"
 			{
-				"gid" "1B13C45DF82F6F802AE82EA78F4D74C2"
-				"size" "8F6E38259135588D6EA8218477E6CFC2"
-				"download" "90E8C96B7DB6FA2D884979BC28E189AD"
+				"gid" "1662F5A7EBC49EF982BDDCF36E60CD38"
+				"size" "27A54209861EA9211F45E30515084925"
+				"download" "D61C2BFEB91E08633ADFFE0F95F6D742"
+			}
+			"steam_deck"
+			{
+				"gid" "DF563794A7C02E62BF4571BCFC15609C"
+				"size" "AC8432418247876CB8B46A24D572127D"
+				"download" "7081AD0A9452EC68D80BD49457848989"
 			}
 			"videos"
 			{
@@ -356,8 +362,8 @@
 	{
 		"public"
 		{
-			"buildid" "13959038"
-			"timeupdated" "1712378578"
+			"buildid" "14068594"
+			"timeupdated" "1713311026"
 		}
 		"devs"
 		{
@@ -379,9 +385,15 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "13959038"
+			"buildid" "14068594"
 			"pwdrequired" "1"
-			"timeupdated" "1712299043"
+			"timeupdated" "1713263672"
+		}
+		"steam_deck"
+		{
+			"buildid" "14034029"
+			"pwdrequired" "1"
+			"timeupdated" "1712921041"
 		}
 		"videos"
 		{
@@ -589,6 +601,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23053366"
-"_sha" "83316cb4d9f0465d3624082d85b4992cd8803d6a"
-"_size" "15248"
+"_change_number" "23182515"
+"_sha" "c7f9d8bd9c52928f40ede1d30b22ceaa7714364e"
+"_size" "15530"
