@@ -234,6 +234,15 @@
 }
 "config"
 {
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "SteamLinuxRuntime_sniper"
+			"comment" "sniper SLR"
+		}
+	}
 	"contenttype" "3"
 	"installdir" "100 Orange Juice"
 	"launch"
@@ -313,9 +322,9 @@
 		{
 			"public"
 			{
-				"gid" "723141140625701130"
-				"size" "1800082739"
-				"download" "1729795968"
+				"gid" "3485791080567249979"
+				"size" "1794952730"
+				"download" "1724308800"
 			}
 		}
 		"encryptedmanifests"
@@ -338,32 +347,40 @@
 				"size" "8F821EDAE3C047FED2914C84E24DFB71"
 				"download" "FF696FD497F5494EF6699FB27A51A5A0"
 			}
-			"release_candidate"
-			{
-				"gid" "1662F5A7EBC49EF982BDDCF36E60CD38"
-				"size" "27A54209861EA9211F45E30515084925"
-				"download" "D61C2BFEB91E08633ADFFE0F95F6D742"
-			}
 			"steam_deck"
 			{
 				"gid" "DF563794A7C02E62BF4571BCFC15609C"
 				"size" "AC8432418247876CB8B46A24D572127D"
 				"download" "7081AD0A9452EC68D80BD49457848989"
 			}
+			"release_candidate"
+			{
+				"gid" "871E7AE879F79D700914BDCA8F61B788"
+				"size" "F2FABB6AEF19D0E1226EB07794AAD4CC"
+				"download" "C5A431359529FAF4433406049F4F5DC0"
+			}
 			"videos"
 			{
-				"gid" "E3C55A046B5CBC82EBE0313ECE76C269"
-				"size" "70702A1361346B4B56C03437C0FA73F9"
-				"download" "7A7CBAE6738386E6901CC29BB18C4658"
+				"gid" "C051F54734580FEA6C0C00DCF09BC6BD"
+				"size" "F428C3747045363A8644C7C2F64DCA08"
+				"download" "889D14B407339EC6AF732211DBD25FAD"
 			}
+		}
+	}
+	"282802"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"steamdeck" "1"
 		}
 	}
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14068594"
-			"timeupdated" "1713311026"
+			"buildid" "14397250"
+			"timeupdated" "1715920597"
 		}
 		"devs"
 		{
@@ -383,23 +400,23 @@
 			"pwdrequired" "1"
 			"timeupdated" "1712196649"
 		}
-		"release_candidate"
-		{
-			"buildid" "14068594"
-			"pwdrequired" "1"
-			"timeupdated" "1713263672"
-		}
 		"steam_deck"
 		{
 			"buildid" "14034029"
 			"pwdrequired" "1"
 			"timeupdated" "1712921041"
 		}
+		"release_candidate"
+		{
+			"buildid" "14397250"
+			"pwdrequired" "1"
+			"timeupdated" "1715911357"
+		}
 		"videos"
 		{
-			"buildid" "1686278"
+			"buildid" "3668987"
 			"pwdrequired" "1"
-			"timeupdated" "1711094046"
+			"timeupdated" "1715484388"
 		}
 	}
 }
@@ -601,6 +618,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23182515"
-"_sha" "c7f9d8bd9c52928f40ede1d30b22ceaa7714364e"
-"_size" "15530"
+"_change_number" "23577282"
+"_sha" "aba149e2c833eb60a403b8973b223a977077e7d1"
+"_size" "15748"
