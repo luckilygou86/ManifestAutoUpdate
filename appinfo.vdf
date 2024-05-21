@@ -98,7 +98,7 @@
 			"height_pct" "80"
 		}
 	}
-	"store_asset_mtime" "1716041033"
+	"store_asset_mtime" "1716187139"
 	"associations"
 	{
 		"0"
@@ -230,7 +230,7 @@
 	"publisher" "Fruitbat Factory"
 	"homepage" "http://fruitbatfactory.com/100orange/"
 	"gamemanualurl" "https://store.steampowered.com/manual/282800/"
-	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600,2727930"
+	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600,2727930,2989310"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -323,9 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "392205518742571232"
-				"size" "1794955290"
-				"download" "1724312112"
+				"gid" "2269878329331951947"
+				"size" "1795430719"
+				"download" "1707845728"
+			}
+			"beta"
+			{
+				"gid" "1413759998554562454"
+				"size" "1795532607"
+				"download" "1707876528"
 			}
 		}
 		"encryptedmanifests"
@@ -356,9 +362,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "F8F3B12D82F6F5AEA2EB45654A200096"
-				"size" "D111CC3774E1FE22001A36DF19B4086B"
-				"download" "709B329E5FD78307DA24657E5BA661F2"
+				"gid" "25969EFF5D2BBE6783E4ABEFB2C878C2"
+				"size" "52DEE8AF63685DED0AF46C40588861E8"
+				"download" "2C1EA419129C1FA4844F1AB4C993F72C"
 			}
 			"videos"
 			{
@@ -376,12 +382,13 @@
 			"steamdeck" "1"
 		}
 	}
+	"hasdepotsindlc" "0"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "14410912"
-			"timeupdated" "1716055814"
+			"buildid" "14437688"
+			"timeupdated" "1716272111"
 		}
 		"devs"
 		{
@@ -407,11 +414,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1712921041"
 		}
+		"beta"
+		{
+			"buildid" "14437841"
+			"description" "Public OpenGL Beta"
+			"timeupdated" "1716272770"
+		}
 		"release_candidate"
 		{
-			"buildid" "14410912"
+			"buildid" "14437841"
 			"pwdrequired" "1"
-			"timeupdated" "1716002291"
+			"timeupdated" "1716272328"
 		}
 		"videos"
 		{
@@ -432,6 +445,13 @@
 			"root" "gameinstall"
 			"path" "."
 			"pattern" "user.dat"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.|"
+			"recursive" "1"
 		}
 	}
 }
@@ -619,6 +639,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23596760"
-"_sha" "5c538316d0546980fd3e685694c05dbe46c72ae3"
-"_size" "15773"
+"_change_number" "23622756"
+"_sha" "c626042886284b8e19f4ac3a43f3b1113b7f045f"
+"_size" "16141"
