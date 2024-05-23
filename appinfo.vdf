@@ -323,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "2269878329331951947"
-				"size" "1795430719"
-				"download" "1707845728"
+				"gid" "1094755047316968009"
+				"size" "1795435948"
+				"download" "1707858592"
 			}
 			"beta"
 			{
-				"gid" "1413759998554562454"
-				"size" "1795532607"
-				"download" "1707876528"
+				"gid" "527923385853742464"
+				"size" "1795537836"
+				"download" "1707889392"
 			}
 		}
 		"encryptedmanifests"
@@ -362,15 +362,15 @@
 			}
 			"release_candidate"
 			{
-				"gid" "25969EFF5D2BBE6783E4ABEFB2C878C2"
-				"size" "52DEE8AF63685DED0AF46C40588861E8"
-				"download" "2C1EA419129C1FA4844F1AB4C993F72C"
+				"gid" "A0D052DAAC30769A29FC39AABAC49045"
+				"size" "8AFA057B03E8F686EDF7B15BF3635034"
+				"download" "D994891DDE0393E7D445E8D4B914C134"
 			}
 			"videos"
 			{
-				"gid" "C051F54734580FEA6C0C00DCF09BC6BD"
-				"size" "F428C3747045363A8644C7C2F64DCA08"
-				"download" "889D14B407339EC6AF732211DBD25FAD"
+				"gid" "9E38C01AE7C0C304E1E95C1F7E8D73D0"
+				"size" "C7168523D6B08989665C6B968FA7F339"
+				"download" "9D928FAF91591D25BFDAB3464A6B985F"
 			}
 		}
 	}
@@ -387,8 +387,8 @@
 	{
 		"public"
 		{
-			"buildid" "14437688"
-			"timeupdated" "1716272111"
+			"buildid" "14457739"
+			"timeupdated" "1716395983"
 		}
 		"devs"
 		{
@@ -416,21 +416,21 @@
 		}
 		"beta"
 		{
-			"buildid" "14437841"
+			"buildid" "14457765"
 			"description" "Public OpenGL Beta"
-			"timeupdated" "1716272770"
+			"timeupdated" "1716396114"
 		}
 		"release_candidate"
 		{
-			"buildid" "14437841"
+			"buildid" "14457765"
 			"pwdrequired" "1"
-			"timeupdated" "1716272328"
+			"timeupdated" "1716396014"
 		}
 		"videos"
 		{
-			"buildid" "3668987"
+			"buildid" "1942287"
 			"pwdrequired" "1"
-			"timeupdated" "1715484388"
+			"timeupdated" "1716422638"
 		}
 	}
 }
@@ -639,6 +639,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23622756"
-"_sha" "c626042886284b8e19f4ac3a43f3b1113b7f045f"
-"_size" "16141"
+"_change_number" "23652499"
+"_sha" "13c3bb24681a795384857e8e9b615aa05e3ad094"
+"_size" "16140"
