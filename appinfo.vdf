@@ -323,9 +323,9 @@
 		{
 			"public"
 			{
-				"gid" "7297623545649039701"
+				"gid" "3360773182212470991"
 				"size" "1795428780"
-				"download" "1707855888"
+				"download" "1707829648"
 			}
 			"beta"
 			{
@@ -368,15 +368,15 @@
 			}
 			"release_candidate"
 			{
-				"gid" "71ED559AF1F1CF1086DEA5DC5C5387D7"
+				"gid" "D8FD9B3B0AF7B63445B0C6061FDBBB3C"
 				"size" "D6BAE75F43F41328F34D4D68042F4B2B"
-				"download" "FBA8B8E68C1DE65BCC23A5FD8876E8A3"
+				"download" "3E2FC1B4340EA47F60245C5A2D920600"
 			}
 			"videos"
 			{
-				"gid" "61F9D4146092AC6DD152E5E7B1BCF404"
-				"size" "854A4DFA2374206423E06BAD563E456D"
-				"download" "A2F76051580F2374B48E8D472216F0C5"
+				"gid" "8DC204E505C3C085AC4438EA9B3DAD5D"
+				"size" "8D0B4A375436B8B45B5123230034B6E5"
+				"download" "A81E14FD4FA976C83AA3E2DAB5D3DC40"
 			}
 		}
 	}
@@ -393,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "14476285"
-			"timeupdated" "1716529230"
+			"buildid" "14486702"
+			"timeupdated" "1716578219"
 		}
 		"devs"
 		{
@@ -434,15 +434,15 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "14476285"
+			"buildid" "14486702"
 			"pwdrequired" "1"
-			"timeupdated" "1716514237"
+			"timeupdated" "1716577289"
 		}
 		"videos"
 		{
-			"buildid" "443787"
+			"buildid" "2387970"
 			"pwdrequired" "1"
-			"timeupdated" "1716455210"
+			"timeupdated" "1716548755"
 		}
 	}
 }
@@ -461,8 +461,8 @@
 		"1"
 		{
 			"root" "gameinstall"
-			"path" "Save"
-			"pattern" "*.|"
+			"path" "Save/{64BitSteamID}/."
+			"pattern" "*.ojs"
 			"recursive" "1"
 		}
 	}
@@ -651,6 +651,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23673142"
-"_sha" "dba478aa03ef97ba056dc7803e4db5fe44f8e278"
-"_size" "16447"
+"_change_number" "23683558"
+"_sha" "4fd9c19d6fc62c7361f24cde5cbb19f17b1020de"
+"_size" "16467"
