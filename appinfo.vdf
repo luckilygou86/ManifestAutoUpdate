@@ -323,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "7232215213006967165"
-				"size" "1795464243"
-				"download" "1707860608"
+				"gid" "5636912199564178452"
+				"size" "1795463731"
+				"download" "1707860848"
 			}
 			"beta"
 			{
-				"gid" "1633577690900422159"
-				"size" "1670103529"
-				"download" "1541366848"
+				"gid" "5498879975012660257"
+				"size" "1670102505"
+				"download" "1541366864"
 			}
 		}
 		"encryptedmanifests"
@@ -362,15 +362,15 @@
 			}
 			"beta_release_candidate"
 			{
-				"gid" "7F513B7DFB9B49D157C83D4043C3AEB6"
-				"size" "8702CDB7D803FC05E313105FEB9F1D9F"
-				"download" "ED91748EBBA3A75620D154256C99CBF5"
+				"gid" "90A7C9CCBBCD521D1B299CD24E4D9C3E"
+				"size" "24B9A21F2450080A34DC6DF9F755F412"
+				"download" "E8268EC35457C06863C0EFE492D471D6"
 			}
 			"release_candidate"
 			{
-				"gid" "03C73CFFB24DA1D6A3AD6D92C8C629B2"
-				"size" "54A660A73661D0EA1DECC7EA3AAAC1B2"
-				"download" "2CBA63B70D50B9DADE5DE09676AC9F56"
+				"gid" "89176E3792BD7EA9C2545634D6FE390C"
+				"size" "A13E46EE0ACA93516B9BA1922141A052"
+				"download" "B3D34A19686B0A1DB250491784CC5398"
 			}
 			"videos"
 			{
@@ -393,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "14649247"
-			"timeupdated" "1717845988"
+			"buildid" "14656164"
+			"timeupdated" "1717965852"
 		}
 		"devs"
 		{
@@ -422,21 +422,21 @@
 		}
 		"beta"
 		{
-			"buildid" "14645116"
+			"buildid" "14656185"
 			"description" "Public OpenGL Beta"
-			"timeupdated" "1717845955"
+			"timeupdated" "1717965784"
 		}
 		"beta_release_candidate"
 		{
-			"buildid" "14645116"
+			"buildid" "14656185"
 			"pwdrequired" "1"
-			"timeupdated" "1717796957"
+			"timeupdated" "1717942863"
 		}
 		"release_candidate"
 		{
-			"buildid" "14649247"
+			"buildid" "14656164"
 			"pwdrequired" "1"
-			"timeupdated" "1717842339"
+			"timeupdated" "1717942698"
 		}
 		"videos"
 		{
@@ -651,6 +651,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23885456"
-"_sha" "9db38923aced5a0f72d0e357a24782d9d532aa15"
+"_change_number" "23897089"
+"_sha" "1347ef6e5a1eaf5c2e6687e140240c48cb98897a"
 "_size" "16468"
