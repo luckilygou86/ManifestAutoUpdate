@@ -218,10 +218,10 @@
 		"16" "10397"
 		"17" "5350"
 		"18" "1719"
-		"19" "12095"
+		"19" "3978"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -296,7 +296,7 @@
 "depots"
 {
 	"overridescddb" "1"
-	"baselanguages" "english"
+	"baselanguages" "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam"
 	"workshopdepot" "282800"
 	"228989"
 	{
@@ -323,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "8083864958485824598"
-				"size" "1795501741"
-				"download" "1707855888"
+				"gid" "3365667780470495310"
+				"size" "1795770834"
+				"download" "1707975120"
 			}
 			"beta"
 			{
-				"gid" "5498879975012660257"
-				"size" "1670102505"
-				"download" "1541366864"
+				"gid" "8831838187349442003"
+				"size" "1670368526"
+				"download" "1541476368"
 			}
 		}
 		"encryptedmanifests"
@@ -362,15 +362,15 @@
 			}
 			"beta_release_candidate"
 			{
-				"gid" "90A7C9CCBBCD521D1B299CD24E4D9C3E"
-				"size" "24B9A21F2450080A34DC6DF9F755F412"
-				"download" "E8268EC35457C06863C0EFE492D471D6"
+				"gid" "1B7D68AC0E39F87E0E13BD6E7F646494"
+				"size" "CFBFC360960B400F95969C09FA8B647F"
+				"download" "A397048FD8B38177093F21F8380FB674"
 			}
 			"release_candidate"
 			{
-				"gid" "89176E3792BD7EA9C2545634D6FE390C"
-				"size" "A13E46EE0ACA93516B9BA1922141A052"
-				"download" "B3D34A19686B0A1DB250491784CC5398"
+				"gid" "8B6D4BAF7AB001EAD36AFC30F3E807D2"
+				"size" "50FE21F7B2F5881B640B2A902837EB18"
+				"download" "491DDC521DCA7997B914DFFBF8F84308"
 			}
 			"videos"
 			{
@@ -393,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "14660452"
-			"timeupdated" "1717998984"
+			"buildid" "14864219"
+			"timeupdated" "1719593336"
 		}
 		"devs"
 		{
@@ -422,21 +422,21 @@
 		}
 		"beta"
 		{
-			"buildid" "14656185"
+			"buildid" "14864198"
 			"description" "Public OpenGL Beta"
-			"timeupdated" "1717965784"
+			"timeupdated" "1719593311"
 		}
 		"beta_release_candidate"
 		{
-			"buildid" "14656185"
+			"buildid" "14864198"
 			"pwdrequired" "1"
-			"timeupdated" "1717942863"
+			"timeupdated" "1719524414"
 		}
 		"release_candidate"
 		{
-			"buildid" "14656164"
+			"buildid" "14864219"
 			"pwdrequired" "1"
-			"timeupdated" "1717942698"
+			"timeupdated" "1719524562"
 		}
 		"videos"
 		{
@@ -651,6 +651,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23901657"
-"_sha" "fafc1e94bd392c767ace139c6865948a2dd53ae9"
-"_size" "16468"
+"_change_number" "24166390"
+"_sha" "61a4c5d1bfac238ce5b138ec586d352bcc452e0e"
+"_size" "16534"
