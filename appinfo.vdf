@@ -90,7 +90,7 @@
 			"height_pct" "38"
 		}
 	}
-	"store_asset_mtime" "1717546718"
+	"store_asset_mtime" "1720735491"
 	"associations"
 	{
 		"0"
@@ -210,8 +210,8 @@
 		"13" "4172"
 		"14" "4195"
 		"15" "4726"
-		"16" "122"
-		"17" "1719"
+		"16" "1719"
+		"17" "122"
 		"18" "1773"
 		"19" "597"
 	}
@@ -236,8 +236,6 @@
 }
 "config"
 {
-	"installscriptsignature" "5cdc680c503f8ec38027ddb9d521583cd29de96045c2b1048ca31f536153f0155caae9fa1bfb0cc0a3c78024890dc0120d9a07f6886454f6dc7cb602f8f9bbeff7df8abbb4913013ba003f9f244941207c5b0ed3a95b814fb81ba45fe0d0931f6fa64563b6561ac5b3061e6a3dacdd51f11b8abf151ba44a66d1452d4f4004c6"
-	"installscriptoverride" "1"
 	"launch"
 	{
 		"0"
@@ -271,21 +269,17 @@
 		}
 	}
 }
-"install"
-{
-	"run process"
-	{
-		"directx"
-		{
-			"hasrunkey" "HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\204360"
-			"process 1" "%INSTALLDIR%\\directx\\DXSETUP.exe"
-			"command 1" "/silent"
-			"nocleanup" "1"
-		}
-	}
-}
 "depots"
 {
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
 	"overridescddb" "1"
 	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
 	"204361"
@@ -299,9 +293,9 @@
 		{
 			"public"
 			{
-				"gid" "8159688314445061547"
-				"size" "207601052"
-				"download" "178655200"
+				"gid" "615242043503966810"
+				"size" "89031265"
+				"download" "62653328"
 			}
 		}
 		"encryptedmanifests"
@@ -332,9 +326,9 @@
 			}
 			"rel_can"
 			{
-				"gid" "3D2B8A52E4D54F1554B17227E888F1A2"
-				"size" "A1CEF03C67EB7DE5FA4022367E929119"
-				"download" "FFB56F1E9CD38B3A09A65AAD6F1C0316"
+				"gid" "2209D7BDA2F760A525C523A31657A876"
+				"size" "DD2B757CF57114BD1CF6B3F2B0F8D525"
+				"download" "ADD994C76821C4B0EFDB972ED3BBF023"
 			}
 		}
 	}
@@ -349,9 +343,9 @@
 		{
 			"public"
 			{
-				"gid" "2129120510030572190"
-				"size" "261636272"
-				"download" "207180896"
+				"gid" "7767106169287332288"
+				"size" "261630124"
+				"download" "207180608"
 			}
 		}
 		"encryptedmanifests"
@@ -382,9 +376,9 @@
 			}
 			"rel_can"
 			{
-				"gid" "D87B17CE82BA3E1144099160355DEFCA"
-				"size" "CD9D94DB4A86ABEAD0E180076CF74964"
-				"download" "F6B84320302907E844CE8C9E6C1E5EA5"
+				"gid" "15EA52A1CF39B9260B7DBA9D18D12764"
+				"size" "D4F88C142BD7FEB8E4DF88AAB4CD7D28"
+				"download" "224D2D0DD5F2BBEBF12AB380394D572E"
 			}
 		}
 	}
@@ -392,8 +386,8 @@
 	{
 		"public"
 		{
-			"buildid" "14175591"
-			"timeupdated" "1719417718"
+			"buildid" "15019473"
+			"timeupdated" "1722442916"
 		}
 		"2021_p_review"
 		{
@@ -421,9 +415,9 @@
 		}
 		"rel_can"
 		{
-			"buildid" "14175591"
+			"buildid" "15019473"
 			"pwdrequired" "1"
-			"timeupdated" "1714063842"
+			"timeupdated" "1721167966"
 		}
 	}
 }
@@ -434,6 +428,6 @@
 	"hidecloudui" "0"
 }
 "_missing_token" "False"
-"_change_number" "24129308"
-"_sha" "28f660280853d4a794c857a8307830276855873a"
-"_size" "8762"
+"_change_number" "24591915"
+"_sha" "2370daae97e72474c0ee05cf33642f9b45d46ee7"
+"_size" "8316"
