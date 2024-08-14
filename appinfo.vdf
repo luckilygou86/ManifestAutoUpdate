@@ -323,15 +323,15 @@
 		{
 			"public"
 			{
-				"gid" "9164164542018986096"
-				"size" "1802945927"
-				"download" "1714696464"
+				"gid" "7024892585063426371"
+				"size" "1802909577"
+				"download" "1714635936"
 			}
 			"beta"
 			{
-				"gid" "8824328180026422058"
-				"size" "1677745304"
-				"download" "1547684736"
+				"gid" "2586916570293575252"
+				"size" "1729707788"
+				"download" "1599767280"
 			}
 		}
 		"encryptedmanifests"
@@ -362,15 +362,15 @@
 			}
 			"beta_release_candidate"
 			{
-				"gid" "4AA2C6674B40E59095C679EEAE397613"
-				"size" "4E20E0C195A6579ACC834F85954FF75E"
-				"download" "CD653363894396DE1B54BE8CFCE0FC72"
+				"gid" "394430D35DCD164D8D0E1885D5F8EF00"
+				"size" "8D5A92E4462B4542FBB568B487C7CF28"
+				"download" "D2E09588CCB6CB547687FC53759B4C63"
 			}
 			"release_candidate"
 			{
-				"gid" "79364DCEE0417D10857F872C2B335F0E"
-				"size" "70BC8F20F14030F7934FF9E3C261D645"
-				"download" "37732CF31599A754F8B8A1DD63D08E43"
+				"gid" "FB76D2EBFC0DCF6C5EEFF09093B8775D"
+				"size" "AA51DC4EB77CCA6BD30167E1583783E1"
+				"download" "28A0AC7C7EB0BB87BA91AF7CD16310CA"
 			}
 			"videos"
 			{
@@ -393,8 +393,8 @@
 	{
 		"public"
 		{
-			"buildid" "15257007"
-			"timeupdated" "1722807410"
+			"buildid" "15350355"
+			"timeupdated" "1723610044"
 		}
 		"devs"
 		{
@@ -422,21 +422,21 @@
 		}
 		"beta"
 		{
-			"buildid" "15256996"
+			"buildid" "15350383"
 			"description" "Public OpenGL Beta"
-			"timeupdated" "1722807373"
+			"timeupdated" "1723610015"
 		}
 		"beta_release_candidate"
 		{
-			"buildid" "15256996"
+			"buildid" "15350383"
 			"pwdrequired" "1"
-			"timeupdated" "1722793351"
+			"timeupdated" "1723523234"
 		}
 		"release_candidate"
 		{
-			"buildid" "15257007"
+			"buildid" "15350355"
 			"pwdrequired" "1"
-			"timeupdated" "1722793431"
+			"timeupdated" "1723522420"
 		}
 		"videos"
 		{
@@ -651,6 +651,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24644662"
-"_sha" "a154fd2d8b2de9522a4b69680d454e478908df97"
+"_change_number" "24777657"
+"_sha" "6ad5f222e869b00a6f0a734409ea0a17b6439b66"
 "_size" "16534"
