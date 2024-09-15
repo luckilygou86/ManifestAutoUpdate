@@ -103,6 +103,44 @@
 			"height_pct" "30"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "32"
+				"height_pct" "30"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
 	"store_asset_mtime" "1630479287"
 	"associations"
 	{
@@ -142,6 +180,7 @@
 		"category_17" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -230,7 +269,6 @@
 {
 	"developer" "Haemimont Games"
 	"publisher" "Kalypso Media Digital"
-	"homepage" "http://www.tropico5.com"
 	"gamemanualurl" "https://store.steampowered.com/manual/245620/"
 	"listofdlc" "284440,284441,284442,284443,306390,306391,306392,306393,306394,306395,306396,306397,306398,306399,306401"
 	"dlcavailableonstore" "1"
@@ -3940,6 +3978,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "19603247"
-"_sha" "c627fad9e36b19cc0c7a480ebd1b25ade0478a78"
-"_size" "96734"
+"_change_number" "24981165"
+"_sha" "20f29610bc689b3bbb91f925240539030d815bf8"
+"_size" "97248"
