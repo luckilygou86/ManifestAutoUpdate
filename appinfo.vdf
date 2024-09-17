@@ -78,6 +78,40 @@
 			"height_pct" "70.79697436131468"
 		}
 	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "46.52003489156245"
+				"height_pct" "70.79697436131468"
+			}
+		}
+	}
 	"store_asset_mtime" "1669214256"
 	"associations"
 	{
@@ -338,9 +372,9 @@
 		{
 			"public"
 			{
-				"gid" "747227711543427952"
-				"size" "2511723538"
-				"download" "1468628160"
+				"gid" "2438009350500097153"
+				"size" "2511723664"
+				"download" "1468628256"
 			}
 			"1.97"
 			{
@@ -401,15 +435,15 @@
 			}
 			"beta"
 			{
-				"gid" "CD9B793F063D1F87D38F4F8E8EA65FE6"
-				"size" "BF7E7CEFF4AC2B448DA1683180113FFA"
-				"download" "0A75739C27AB0D8A878709FEDEA981FE"
+				"gid" "FA611D6E344665E7FD8908FBFCF2596A"
+				"size" "570A1BCE578665814CC35BBC83220B86"
+				"download" "E3C2373065D36704DC3910BEF67DBBDD"
 			}
 			"experimental"
 			{
-				"gid" "64F4AE6AF6BDE94B91CC4D56E9B59F1C"
-				"size" "8D864DB3A9A6BB49DF15E5BCB7995932"
-				"download" "08D5C07956625B64F5104F2B3F1F85AF"
+				"gid" "CCA6E345C99FB277AA580F7F9283C3FF"
+				"size" "F9F1A6AB69E6C2F65929B31FFE9B4803"
+				"download" "3EA7DA753C564486F228BF73D67F589D"
 			}
 		}
 	}
@@ -424,9 +458,9 @@
 		{
 			"public"
 			{
-				"gid" "1763630463580634075"
-				"size" "2533052525"
-				"download" "1476976944"
+				"gid" "6925556072822285408"
+				"size" "2533052651"
+				"download" "1476977040"
 			}
 			"1.97"
 			{
@@ -487,15 +521,15 @@
 			}
 			"beta"
 			{
-				"gid" "4D42F4C99A0F2DAB2B1079A123F8BD63"
-				"size" "023661004931A84E658571274D172123"
-				"download" "96CD45B31757547688D6299C44461AA3"
+				"gid" "620C9EC5932A5BD7B29E76CB4B9D0D4D"
+				"size" "F2550A3FC2BA7D504E77087C10515316"
+				"download" "E140DFEFA9E034DD130BB3850AF6FFDE"
 			}
 			"experimental"
 			{
-				"gid" "BE8A88B0C603BC3749BDE6DC6D2FE4CB"
-				"size" "85CB71D2180F7ED1E2781CD187A6A224"
-				"download" "24FBB8F85F2FB79C736616F44EA3FAC4"
+				"gid" "D548F3C1F081224EA10343F2604B88E4"
+				"size" "248C64437E2387F4E250BFEC0DF4B26E"
+				"download" "67F947E86103750D90D07DD9D2133E7C"
 			}
 		}
 	}
@@ -510,9 +544,9 @@
 		{
 			"public"
 			{
-				"gid" "1934221130094219832"
-				"size" "2946712851"
-				"download" "1488584208"
+				"gid" "698982163387750127"
+				"size" "2946712977"
+				"download" "1488584304"
 			}
 			"1.97"
 			{
@@ -573,15 +607,15 @@
 			}
 			"beta"
 			{
-				"gid" "902A487F8C4FEDAF5FE8BC918E44D831"
-				"size" "D9C7926F67F5283E0E8A405CC828584E"
-				"download" "C0C6EDE54B5B4C7F47C8337610B170F6"
+				"gid" "772562EB10A74A272010BAA68350327E"
+				"size" "89D9FA95191F6706C51C071E0F5305A3"
+				"download" "79B239742B5681E3D24CFFE4356DB555"
 			}
 			"experimental"
 			{
-				"gid" "EF7E6B1D49303D5A28E8316A7A74C413"
-				"size" "12B5E773DC32EA0116399C98D667520A"
-				"download" "45D266064338BC3E471D824CF0A15534"
+				"gid" "C7BC00061300C9C52462C07856A11E4F"
+				"size" "7FE3BFBE218445A26E246BA00628777C"
+				"download" "925F8040ECCA22906F63744879D3242A"
 			}
 		}
 	}
@@ -876,8 +910,8 @@
 	{
 		"public"
 		{
-			"buildid" "15166809"
-			"timeupdated" "1722024084"
+			"buildid" "15717603"
+			"timeupdated" "1726511522"
 		}
 		"1.46"
 		{
@@ -935,15 +969,15 @@
 		}
 		"beta"
 		{
-			"buildid" "15166809"
+			"buildid" "15717603"
 			"pwdrequired" "1"
-			"timeupdated" "1722023189"
+			"timeupdated" "1726511534"
 		}
 		"experimental"
 		{
-			"buildid" "15166809"
+			"buildid" "15717603"
 			"pwdrequired" "1"
-			"timeupdated" "1722023203"
+			"timeupdated" "1726510433"
 		}
 	}
 }
@@ -1006,6 +1040,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24530933"
-"_sha" "3bac6b4c7003ca8d7d18a79ab0733f0d0fdb7b7a"
-"_size" "21286"
+"_change_number" "25249130"
+"_sha" "fa5527bce5a605b84283b246a733b9b924ada3e0"
+"_size" "21790"
