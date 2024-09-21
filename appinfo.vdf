@@ -468,6 +468,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "2068551939829987458"
+				"size" "25185624"
+				"download" "7947792"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -493,6 +499,12 @@
 		}
 		"manifests"
 		{
+			"public"
+			{
+				"gid" "2522648862486355965"
+				"size" "1694560964"
+				"download" "1587375968"
+			}
 		}
 		"encryptedmanifests"
 		{
@@ -514,8 +526,8 @@
 	{
 		"public"
 		{
-			"buildid" "15768008"
-			"timeupdated" "1726858591"
+			"buildid" "15777463"
+			"timeupdated" "1726918088"
 		}
 		"devs"
 		{
@@ -588,7 +600,7 @@
 		"1"
 		{
 			"root" "gameinstall"
-			"path" "Save/{64BitSteamID}/."
+			"path" "save/{64BitSteamID}/."
 			"pattern" "*.ojs"
 			"recursive" "1"
 		}
@@ -778,6 +790,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25326132"
-"_sha" "3f6146fef08ad7d121c495bb6b1c0c3190d3fbf6"
-"_size" "18844"
+"_change_number" "25330805"
+"_sha" "53350a410380738a9a5cf62260d4000de7e8fb62"
+"_size" "19069"
